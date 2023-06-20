@@ -1,0 +1,41 @@
+.cuerpo{
+    background-image: url(carros.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.piedra{
+    background-color: chartreuse;
+    color: black;
+    border: 2px solid rgb(red, green, blue);
+    padding: 20px 110px;
+    text-align: center;
+    display: online-block;
+    border-radius: 10px;
+}
+.oscar {
+    color:rgb(0, 255, 234) ;
+    padding: 15px;
+}
+.cons{
+    width: 300px;
+    background-color: rgb(7, 7, 7);
+    padding: 7px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgb(255, 255, 255);
+    box-shadow: 7px 13px 37px rgb(127, 255, 0);
+
+}
+.piedra2{
+    background-color: chartreuse;
+    color: black;
+    border: 2px solid rgb(red, green, blue);
+    padding: 3px 3px;
+    text-align: center;
+    display: online-block;
+    border-radius: 1px;
+}
+
+
